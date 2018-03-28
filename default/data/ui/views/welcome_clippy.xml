@@ -1,0 +1,9 @@
+<dashboard stylesheet="TA-clippy:build/clippy.css" script="TA-clippy:clippy_welcome.js">
+  <label>Welcome Clippy</label>
+  <row>
+    <panel>
+      <html>
+      </html>
+    </panel>
+  </row>
+</dashboard>

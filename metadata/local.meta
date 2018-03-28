@@ -1,0 +1,13 @@
+[app/ui]
+version = 7.0.2
+modtime = 1522263917.048730000
+
+[app/launcher]
+version = 7.0.2
+modtime = 1522263917.051559000
+
+[views/welcome_clippy]
+export = none
+owner = admin
+version = 7.0.2
+modtime = 1522269852.040523000
